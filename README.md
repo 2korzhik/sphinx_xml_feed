@@ -1,6 +1,6 @@
 #Sphinx xmlpipe2 in PHP
 
-http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-i/#
+http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-i/#<br>
 http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-ii/#
 
 An example xmlpipe2 format looks like this:

@@ -1,7 +1,7 @@
-Sphinx xmlpipe2 in PHP
+#Sphinx xmlpipe2 in PHP
 
-® http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-i/#
-® http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-ii/#
+http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-i/#
+http://jetpackweb.com/blog/2009/08/16/sphinx-xmlpipe2-in-php-part-ii/#
 
 An example xmlpipe2 format looks like this:
 ```xml
@@ -37,6 +37,7 @@ source xml_blog_posts
 Here is a class that extends XMLWriter, which is a built in PHP class that is essentially undocumented and works great for creating memory efficient streams of XML data.
 Rather than keeping each document in memory, XMLWriter will allow us to immediately flush that document’s XML elements to standard output.
 
+##Usage
 We can use it as follows:
 
 ```php
